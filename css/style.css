@@ -56,6 +56,14 @@ body {
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.7);
 }
 
+footer{
+    text-align: center;
+    padding: 20px;
+    color: #cc0000;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 12px;
+}
+
 @media screen and (max-width: 812px){
     .logo{
       width: 100%;
